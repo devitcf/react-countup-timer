@@ -1,6 +1,6 @@
 {
   "name": "react-countup-timer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Devi Tse <devitcf@gmail.com>",
   "license": "MIT",
   "description": "A simple count up timer for react version greater than 16",
